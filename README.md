@@ -1,1 +1,1 @@
-# Aplikasi-Android-Inventory-Menggunakan-MySQL
+# Aplikasi Android Inventory Menggunakan MySQL
